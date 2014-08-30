@@ -29,6 +29,7 @@
 			float:left;
 			height:65px;
 			-webkit-transition: background-color 1s;
+			-moz-transition: background-color 1s;
 			font-size:60px;
 		}
 		.small:hover
