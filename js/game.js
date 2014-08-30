@@ -142,7 +142,7 @@
 					alert("O wins the game!");
 				else
 					alert("X wins the game!");
-				location.href='http://localhost/TicTacToe/index.php';
+				location.href='http://codersofchaos.github.io/Mega-Tic-Tac-Toe/';
 			}
 
 		}
