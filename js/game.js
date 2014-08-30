@@ -85,7 +85,7 @@
 
 				else
 					id.parentNode.style.backgroundImage='url("images/Kata.png")';
-				posBig='' //Other player can play anywhere now
+				
 			}
 
 			
